@@ -10,5 +10,5 @@ A simple currency converter web application that converts one currency to anothe
 
 - ## Screenshots
 
-![Currency Converter Screenshot](screenshot.png)
+![Currency Converter Screenshot](screen.png)
 
