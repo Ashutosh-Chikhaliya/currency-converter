@@ -8,3 +8,7 @@ A simple currency converter web application that converts one currency to anothe
 - Real-time exchange rate data using an external API.
 - User-friendly interface.
 
+- ## Screenshots
+
+![Currency Converter Screenshot](screenshot.png)
+
